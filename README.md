@@ -10,7 +10,7 @@ I love the full stack side of things where I can dip my toes in both waters and 
 
 Software & Languages:
 - Languages: Python, JavaScript, HTML, CSS, SQL, Mongo, JSON, Typescript, EJS, DTL 
-- Libraries and Frameworks: React, Express.js, Django, Jquery, EJS, Bootstrap, Semantic UI, Bulma 
+- Libraries and Frameworks: React, Express.js, Django, Jquery, EJS, Bootstrap, Semantic UI, Next.js 
 - Databases and other: PostgreSQL, MongoDB, RESTful Routing, JSON API, API Integration, Heroku, Netlify 
 
 ## 🔭 I’m currently working on:
