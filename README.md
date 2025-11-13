@@ -9,9 +9,9 @@ Since then I have dove into threory and online tutorials for programming and to 
 I love the full stack side of things where I can dip my toes in both waters and be with the app/ web app from conseption to production. 
 
 Software & Languages:
-- Languages: Python, JavaScript, HTML, CSS, SQL, Mongo, JSON, Typescript, EJS, DTL 
+- Languages: Python, JavaScript, HTML, CSS, SQL, Mongo, JSON, Typescript, EJS, Tailwind CSS 
 - Libraries and Frameworks: React, Express.js, Django, Jquery, EJS, Bootstrap, Semantic UI, Next.js 
-- Databases and other: PostgreSQL, MongoDB, RESTful Routing, JSON API, API Integration, Heroku, Netlify 
+- Databases and other: MySQL, PostgreSQL, MongoDB, RESTful Routing, JSON API, API Integration, Heroku, Netlify 
 
 ## 🔭 I’m currently working on:
 - An E-commerce app with a Djgano backend and React frontend with MySQL for the database!
